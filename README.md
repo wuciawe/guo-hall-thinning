@@ -31,6 +31,6 @@ The original file:
 
 ![original](WuYuih.png)
 
-And the result:
+And the demo result:
 
 ![result](result.png)
